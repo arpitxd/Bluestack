@@ -1,0 +1,16 @@
+.active {
+    color: green;
+    border-bottom: 5px solid green;
+}
+
+.italic {
+    font-style: italic;
+    font-size: 12px;
+    color: #252525d0
+}
+/* ul {
+    list-style: 'none'
+}
+ul li{
+    margin-right: '10%'    
+} */
