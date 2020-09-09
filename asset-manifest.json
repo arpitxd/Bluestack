@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/bluestack/static/css/main.0b691428.chunk.css",
-    "main.js": "/bluestack/static/js/main.d20eab3d.chunk.js",
-    "main.js.map": "/bluestack/static/js/main.d20eab3d.chunk.js.map",
+    "main.css": "/bluestack/static/css/main.001d08c5.chunk.css",
+    "main.js": "/bluestack/static/js/main.392b8863.chunk.js",
+    "main.js.map": "/bluestack/static/js/main.392b8863.chunk.js.map",
     "runtime-main.js": "/bluestack/static/js/runtime-main.52ff5252.js",
     "runtime-main.js.map": "/bluestack/static/js/runtime-main.52ff5252.js.map",
-    "static/js/2.e2a729d5.chunk.js": "/bluestack/static/js/2.e2a729d5.chunk.js",
-    "static/js/2.e2a729d5.chunk.js.map": "/bluestack/static/js/2.e2a729d5.chunk.js.map",
+    "static/js/2.4799c4d1.chunk.js": "/bluestack/static/js/2.4799c4d1.chunk.js",
+    "static/js/2.4799c4d1.chunk.js.map": "/bluestack/static/js/2.4799c4d1.chunk.js.map",
     "index.html": "/bluestack/index.html",
-    "precache-manifest.41349e475eb52618d26267e5893782ce.js": "/bluestack/precache-manifest.41349e475eb52618d26267e5893782ce.js",
+    "precache-manifest.984b9dfbb34953ea3e7f17ab8a52b46d.js": "/bluestack/precache-manifest.984b9dfbb34953ea3e7f17ab8a52b46d.js",
     "service-worker.js": "/bluestack/service-worker.js",
-    "static/css/main.0b691428.chunk.css.map": "/bluestack/static/css/main.0b691428.chunk.css.map",
-    "static/js/2.e2a729d5.chunk.js.LICENSE.txt": "/bluestack/static/js/2.e2a729d5.chunk.js.LICENSE.txt"
+    "static/css/main.001d08c5.chunk.css.map": "/bluestack/static/css/main.001d08c5.chunk.css.map",
+    "static/js/2.4799c4d1.chunk.js.LICENSE.txt": "/bluestack/static/js/2.4799c4d1.chunk.js.LICENSE.txt",
+    "static/media/chess.png": "/bluestack/static/media/chess.977ecf7b.png",
+    "static/media/garena.png": "/bluestack/static/media/garena.7173cfe7.png",
+    "static/media/mortal.png": "/bluestack/static/media/mortal.90640a87.png",
+    "static/media/nfs.png": "/bluestack/static/media/nfs.c161ba4a.png",
+    "static/media/pubg.png": "/bluestack/static/media/pubg.e51f42c3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.52ff5252.js",
-    "static/js/2.e2a729d5.chunk.js",
-    "static/css/main.0b691428.chunk.css",
-    "static/js/main.d20eab3d.chunk.js"
+    "static/js/2.4799c4d1.chunk.js",
+    "static/css/main.001d08c5.chunk.css",
+    "static/js/main.392b8863.chunk.js"
   ]
 }
